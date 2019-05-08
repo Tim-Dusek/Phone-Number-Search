@@ -6,4 +6,6 @@ This means 2 = A = B = C, 3 = D = E = F, etc.
 
 So to search for "carl" you could type in 2275 which may return more than 1 thing such as a phone number with 2275 in it sequentially.
 
+The text file which gets searched may or may not include area code, parethesis, or hyphens. It must include 7, 10, or 11 digits.
+
 This program was created to help test my understanding of regex.
